@@ -22,22 +22,3 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-
-
-## Install dependecy 
-
-```bash
-bundle install
-```
-
-## Run local  
-
-```bash
-rails server
-```
-
-## Generate  
-
-```bash
-rails generate scaffold Shark name:string facts:text
-```
